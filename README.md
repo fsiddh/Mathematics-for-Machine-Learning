@@ -10,3 +10,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 ## Week 4 Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
+
+
+(link to the pdf above:
+https://www.edureka.co/blog/mathematics-for-machine-learning/)
